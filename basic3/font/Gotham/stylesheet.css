@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url('GothamBlack.eot');
+    src: local('Gotham Black'), local('GothamBlack'),
+        url('GothamBlack.eot?#iefix') format('embedded-opentype'),
+        url('GothamBlack.woff2') format('woff2'),
+        url('GothamBlack.woff') format('woff'),
+        url('GothamBlack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('GothamBold.eot');
+    src: local('Gotham Bold'), local('GothamBold'),
+        url('GothamBold.eot?#iefix') format('embedded-opentype'),
+        url('GothamBold.woff2') format('woff2'),
+        url('GothamBold.woff') format('woff'),
+        url('GothamBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('GothamLight.eot');
+    src: local('Gotham Light'), local('GothamLight'),
+        url('GothamLight.eot?#iefix') format('embedded-opentype'),
+        url('GothamLight.woff2') format('woff2'),
+        url('GothamLight.woff') format('woff'),
+        url('GothamLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('GothamMedium.eot');
+    src: local('Gotham Medium'), local('GothamMedium'),
+        url('GothamMedium.eot?#iefix') format('embedded-opentype'),
+        url('GothamMedium.woff2') format('woff2'),
+        url('GothamMedium.woff') format('woff'),
+        url('GothamMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
